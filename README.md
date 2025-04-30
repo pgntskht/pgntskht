@@ -1,5 +1,1 @@
-<div align="center">
-  <img height="600" src="https://i.pinimg.com/originals/15/9f/92/159f924cddabe4cd03166fc20efa0131.gif"  />
-</div>
-
-###
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
